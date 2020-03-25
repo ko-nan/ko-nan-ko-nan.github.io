@@ -331,6 +331,11 @@ figure {
           padding: 10px 15px !important;
           border: none;
           font-weight: 400; }
+           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn2 {
+            color: #fff;
+            border: 1px solid #000;
+            background-color: #e7e7e7; }
+            
           #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
             color: #000;
             border: 1px solid #000;
@@ -1199,6 +1204,20 @@ body.offcanvas {
       background: #2c98f0;
       color: #fff; }
 
+.btn-primary2 {
+  background: #fff;
+  color: #000;
+  border: 2px solid #2c98f0; }
+  .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    background: #fff !important;
+    border-color: #44a4f2 !important; }
+  .btn-primary.btn-outline {
+    background: transparent;
+    color: #2c98f0;
+    border: 2px solid #2c98f0; }
+    .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
+      background: #fff;
+      color: #000; }
 .btn-success {
   background: #5cb85c;
   color: #fff;
